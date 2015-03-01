@@ -20,6 +20,7 @@ gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
+gem 'figaro', '~> 1.1.0'
 
 group :development do
   gem 'better_errors'
